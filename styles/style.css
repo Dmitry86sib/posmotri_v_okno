@@ -71,14 +71,6 @@ ol {
   position: relative;
 }
 
-.preloader {
-  position: absolute;
-  inset-block-start: 0;
-  inset-inline-start: 0;
-  inline-size: 100%;
-  block-size: 100%;
-}
-
 .search-form__fieldset-title {
   margin-block-end: 5px;
   font-weight: 400;
