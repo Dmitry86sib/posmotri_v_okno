@@ -315,14 +315,7 @@ ol {
   display: block;
 }
 
-.content__video-card-title {
-  padding-block-start: 5px;
-  font-family: Oswald;
-  font-weight: 700;
-  font-size: 30px;
-  line-height: 100%; /* 30px */
-  text-transform: uppercase;
-}
+
 
 
 
