@@ -317,12 +317,7 @@ ol {
   background-color: #545050;
 }
 
-.content__card-link:focus-visible {
-  margin: 2px;
-  border: 1px solid #FFF;
-  inline-size: 398px;
-  block-size: 107px;
-}
+
 
 
 
